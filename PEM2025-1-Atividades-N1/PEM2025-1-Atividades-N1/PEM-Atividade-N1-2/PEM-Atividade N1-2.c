@@ -1,3 +1,13 @@
+/*-------------------------------------------------------*
+*                      FATEC Ipiranga                    *
+* Disciplina: Programaçao Estruturada e Modular          *
+*          Prof. Veríssimo                               *
+*--------------------------------------------------------*
+* Objetivo do Programa: Jogo da Velha                    *
+* Data - 05/03/2025                                      * 
+* Autor: Henrique de Castro Pereira; 2040482422035       *
+*--------------------------------------------------------*/
+
 #include <stdio.h>
 #include <string.h>
 
