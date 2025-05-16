@@ -1,3 +1,13 @@
+/*-------------------------------------------------------*
+*                      FATEC Ipiranga                    *
+* Disciplina: Programaçao Estruturada e Modular          *
+*          Prof. Veríssimo                               *
+*--------------------------------------------------------*
+* Objetivo do Programa: Bubblesort                       *
+* Data - 16/05/2025                                      * 
+* Autor: Henrique de Castro Pereira; 2040482422035       *
+*--------------------------------------------------------*/
+
 #include <stdio.h>
 
 void mostrar_vetor (int *vetor, int n)
